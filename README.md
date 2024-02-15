@@ -1,0 +1,4 @@
+- 👋 Hi, We are CodeX Team
+- 👀 We are interested in Web Development
+- 🌱 we are currently learning fullstack web development
+- 💞️ we are looking to collaborate on fullstack web app building
